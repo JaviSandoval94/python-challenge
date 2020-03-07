@@ -1,0 +1,5 @@
+Total months analyzed: 86
+Total Profits/Losses 38382578
+Average variation: -2288.2
+Maximum variation: Feb-2012    (1926159)
+Minimum variation: Sep-2013    (-2196167)
