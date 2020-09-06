@@ -27,25 +27,23 @@ Run the `main.py` files contained in the folders of each challenge, make sure to
 
 The results obtained were the following:
 PyBank:
----
-**NOTE**
+````
 Total months analyzed: 86
 Total Profits/Losses 38382578
 Average variation: -2288.2
 Maximum variation: Feb-2012    (1926159)
 Minimum variation: Sep-2013    (-2196167)
----
+````
 
 PyPoll:
----
-**NOTE**
+````
 Total votes: 3521001
 Khan:  63.0%  (2218231)
 Correy:  20.0%  (704200)
 Li:  14.0%  (492940)
 O'Tooley:  3.0%  (105630)
 Winner: Khan
----
+````
 
 # Conclusions
 This project gives a good insight of the real world applications of Python. It is also a great motivation, since you don't have to be a super experienced programmer to start implementing problem solutions in everyday situations!
