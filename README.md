@@ -44,6 +44,4 @@ Li:  14.0%  (492940)
 O'Tooley:  3.0%  (105630)
 Winner: Khan
 ````
-
-# Conclusions
 This project gives a good insight of the real world applications of Python. It is also a great motivation, since you don't have to be a super experienced programmer to start implementing problem solutions in everyday situations!
