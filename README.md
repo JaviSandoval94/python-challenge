@@ -25,7 +25,7 @@ This is a practice exercise done using the `election_data.csv` (`Voter ID`, `Cou
 # Code description
 Run the `main.py` files contained in the folders of each challenge, make sure to have all the files available within the folder. The script will print the results on screen and export the results in the corresponding `.txt` files.
 
-The results obtained were the following:
+The results obtained were the following:<br>
 PyBank:
 ````
 Total months analyzed: 86
